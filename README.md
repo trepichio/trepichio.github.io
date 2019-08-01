@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page! ![LogoImage](./assets/logo_jt_cut.jpg)
 
-You can use the [editor on GitHub](https://github.com/trepichio/trepichio.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a IT enthusiast since my childhood and have being learning and working things in many areas. I have professional experience in _Support, Training, Consultancy and Development_.
+Last one has been my major interest recently, so I'm focused to become a *Fullstack Web Developer* (or at least a *Frontend* one) and I'm always open to check new opportunities.
+So, don't hesitate to [reach me out](https://linkedin.com/trepichio) if you want to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### So, what's this about?
 
-### Markdown
+Here is my GitHub Page where I present some good and some fun stuffs done by myself when learning anything. This is kind of a portfolio, anyone interested can check out any of source code available in their respective repositories in [my Github Profile](https://github.com/trepichio).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Let's cut the cheese right away!
 
-```markdown
-Syntax highlighted code block
+Ok. Enough bla bla bla! Here there are some things done when learning:
+- Javascript (ES6+)
+- HTML5
+- CSS3
+- Node.js
+- Vue.js
 
-# Header 1
-## Header 2
-### Header 3
+I have used many resources like Books, Tutorial videos, Blog articles.
+I will be soon listing my favourites one.
 
-- Bulleted
-- List
+Below it is the list of my repositories.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Check it out!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trepichio/trepichio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [EloquentJS](./eloquentJS_exercises/)
