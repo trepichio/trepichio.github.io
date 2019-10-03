@@ -29,5 +29,6 @@ Below it is the list of my repositories and some deployed VueJS SPA.
 1. [EloquentJS](./eloquentJS_exercises/)
 1. [JS30projects](./JS30projects/)
 1. [Vue Meetup](https://stoic-wescoff-2e01a5.netlify.com/)
+1. [Vue Calculator](https://laughing-payne-2729ae.netlify.com/)
 1. [Vue Adopt Pets](https://vibrant-booth-752181.netlify.com/)
 1. [Vue TodoList](https://condescending-dubinsky-573577.netlify.com/#/)
