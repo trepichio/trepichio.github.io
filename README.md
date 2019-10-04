@@ -21,7 +21,8 @@ Ok. Enough bla bla bla! Here are some things done when learning:
 I have used many resources like Books, Tutorial videos, Blog articles.
 I will be soon listing my favourites one.
 
-Below it is the list of my repositories and some deployed VueJS SPA.
+Below it is a list of a few of my repositories and some deployed VueJS SPA.
+If you want to see more click on "view on GitHub" at top of page. 
 
 
 # Check it out!
