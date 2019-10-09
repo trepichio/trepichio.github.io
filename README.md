@@ -9,7 +9,7 @@ So, don't hesitate to [reach me out](https://linkedin.com/trepichio) if you w'pu
 
 Here is my GitHub Page where I present some good and fun stuffs done by myself when learning anything through any kind of material such as articles, blogs, books, tutorials, etc. This is kind of a portfolio, so anyone who interested can check out any of source code available in their respective repositories in [my Github Profile](https://github.com/trepichio) and many more over there.
 
-### Let's cut the cheese right away!
+### Let's cut to the chase right away!
 
 Ok. Enough bla bla bla! Here are some things done when learning:
 - Javascript (ES6+)
@@ -22,7 +22,7 @@ I have used many resources like Books, Tutorial videos, Blog articles.
 I will be soon listing my favourites one.
 
 Below it is a list of a few of my repositories and some deployed VueJS SPA.
-If you want to see more click on "view on GitHub" at top of page. 
+If you want to see more click on "view on GitHub" at top of page.
 
 
 # Check it out!
