@@ -28,6 +28,7 @@ If you want to see more click on "view on GitHub" at top of page.
 # Check it out!
 
 1. [Vue Meetup](https://stoic-wescoff-2e01a5.netlify.com/)
+1. [Vue Youtube Search](https://serene-sammet-ee68d4.netlify.com/)
 1. [Vue Calculator](https://laughing-payne-2729ae.netlify.com/)
 1. [Vue Adopt Pets](https://vibrant-booth-752181.netlify.com/)
 1. [Vue TodoList](https://condescending-dubinsky-573577.netlify.com/#/)
