@@ -27,12 +27,14 @@ If you want to see more click on "view on GitHub" at top of page.
 
 # Check it out!
 
-1. [Vue Meetup](https://stoic-wescoff-2e01a5.netlify.com/)
-1. [Vue Meal Prep](vue-meal-prep-a1a4c.appspot.com)
-1. [Vue Youtube Search](https://serene-sammet-ee68d4.netlify.com/)
-1. [Vue Calculator](https://laughing-payne-2729ae.netlify.com/)
-1. [Vue Adopt Pets](https://vibrant-booth-752181.netlify.com/)
-1. [Vue TodoList](https://condescending-dubinsky-573577.netlify.com/#/)
-1. [EloquentJS](./eloquentJS_exercises/)
-1. [JS30projects](./JS30projects/)
-1. [Pure CSS and Progressive JS tricks](https://trepichio.github.io/Mytest/)
+| PROJECT OR REPOSITORY | STACK |
+| -:- | -:- |
+|[Vue Meetup](https://stoic-wescoff-2e01a5.netlify.com/) | Vue.js 2.6, VueX, VueRouter, Vuetify 1\.5, Firebase, NodeJS |
+|[Vue Meal Prep](https://festive-swanson-56624f.netlify.com/) | Vue.js 2.6 VueX, VueRouter, Vuetify 2, Firebase, NodeJS |
+|[Vue Youtube Search](https://serene-sammet-ee68d4.netlify.com/) | Vue.js 2.6, Bootstrap 4, NodeJS |
+|[Vue Calculator](https://laughing-payne-2729ae.netlify.com/) | Vue.js 2.6, Pure CSS3, NodeJS |
+|[Vue Adopt Pets](https://vibrant-booth-752181.netlify.com/) | Vue.js 2.6, VueX, VueRouter, Bootstrap.Vue, NodeJS |
+|[Vue TodoList](https://condescending-dubinsky-573577.netlify.com/#/) | Vue.js 2.6, VueRouter, Pure CSS3, NodeJS |
+|[EloquentJS](./eloquentJS_exercises/) | Vanilla ES5+, HTML5, CSS3, NodeJS |
+|[JS30projects](./JS30projects/) | Vanilla ES5+, HTML5, CSS3, NodeJS |
+|[Pure CSS and Progressive JS tricks](https://trepichio.github.io/Mytest/)| Vanilla ES5+, HTML5, CSS3 |
