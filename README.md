@@ -2,8 +2,8 @@
 ## Welcome to my GitHub Page!
 
 I'm a IT enthusiast since my childhood and have being learning and working things in many areas. I have professional experience in _Support, Training, Consultancy and Development_.
-Last one has been my major interest recently, so I'm focused to become a *Fullstack Web Developer* (or at least a *Frontend* one for start) and I'm always willing to check new opportunities.
-So, don't hesitate to [reach me out](https://linkedin.com/trepichio) if you w'puld like to.
+Last one has been my major interest recently, so I'm focused to become a *Fullstack Web Developer* and I'm always willing to check new opportunities.
+So, don't hesitate to [reach me out](https://linkedin.com/trepichio) if you would like to.
 
 ### So, what's this about?
 
@@ -38,3 +38,7 @@ If you want to see more click on "view on GitHub" at top of page.
 |[EloquentJS](./eloquentJS_exercises/) | Vanilla ES5+, HTML5, CSS3, NodeJS |
 |[JS30projects](./JS30projects/) | Vanilla ES5+, HTML5, CSS3, NodeJS |
 |[Pure CSS and Progressive JS tricks](https://trepichio.github.io/Mytest/)| Vanilla ES5+, HTML5, CSS3 |
+|[Kit-Builder](https://github.com/trepichio/kit-builder-app) |  NodeJS, Express, Node-Pkg, Firebase Queue, Node-mailer, Joi, Winston |
+|[Kit-Installer](https://github.com/trepichio/kit-installer) | NodeJS, Express, Node-Pkg, ShellJS, Prompts, Winston |
+|[Kit-Frontend](https://github.com/trepichio/kit-builder-frontend-vue) | Vue.js 2.6, VueX, VueRouter, Vuetify 2\.2 |
+|[Kit-Builder-Queue-api](https://stoic-wescoff-2e01a5.netlify.com/) | NodeJS, Express, Netlify-Lambda, Serveless-http, Joi |
